@@ -7,7 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.0] - 2026-05-29
+
 ### Added
 
-- Project initialization (#1).
+- Project initialization and theme setup (#1).
 
+[Unreleased]: https://github.com/omarchy-themes/omarchy-serenity-theme/compare/v0.1.0...HEAD
+[0.1.0]: https://github.com/omarchy-themes/omarchy-serenity-theme/releases/tag/v0.1.0
