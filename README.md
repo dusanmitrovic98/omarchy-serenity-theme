@@ -1,18 +1,18 @@
 <div align="center">
 
-# Serenity
+# Tranquility
 
 [![Omarchy](https://img.shields.io/badge/Made_for-Omarchy-3A8FB7?style=flat-square)](https://omarchy.org/)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-3A8FB7?style=flat-square&logo=paypal)](https://paypal.me/dusanmitrovic98)
 [![Support](https://img.shields.io/badge/Support-Ko--fi-3A8FB7?style=flat-square&logo=ko-fi)](https://ko-fi.com/dusanmitrovic)
-[![GitHub release](https://img.shields.io/github/v/release/omarchy-themes/omarchy-serenity-theme?style=flat-square&color=3A8FB7)](https://github.com/omarchy-themes/omarchy-serenity-theme/releases)
-[![GitHub stars](https://img.shields.io/github/stars/omarchy-themes/omarchy-serenity-theme?style=flat-square&color=3A8FB7)](https://github.com/omarchy-themes/omarchy-serenity-theme/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/omarchy-themes/omarchy-serenity-theme?style=flat-square&color=3A8FB7)](https://github.com/omarchy-themes/omarchy-serenity-theme/network)
-[![GitHub repo size](https://img.shields.io/github/repo-size/omarchy-themes/omarchy-serenity-theme?style=flat-square&color=3A8FB7)](https://github.com/omarchy-themes/omarchy-serenity-theme)
+[![GitHub release](https://img.shields.io/github/v/release/omarchy-themes/omarchy-tranquility-theme?style=flat-square&color=3A8FB7)](https://github.com/omarchy-themes/omarchy-tranquility-theme/releases)
+[![GitHub stars](https://img.shields.io/github/stars/omarchy-themes/omarchy-tranquility-theme?style=flat-square&color=3A8FB7)](https://github.com/omarchy-themes/omarchy-tranquility-theme/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/omarchy-themes/omarchy-tranquility-theme?style=flat-square&color=3A8FB7)](https://github.com/omarchy-themes/omarchy-tranquility-theme/network)
+[![GitHub repo size](https://img.shields.io/github/repo-size/omarchy-themes/omarchy-tranquility-theme?style=flat-square&color=3A8FB7)](https://github.com/omarchy-themes/omarchy-tranquility-theme)
 
 ![Preview](preview.png)
 
-*Serenity theme for Omarchy Arch Linux distribution.*
+*Tranquility theme for Omarchy Arch Linux distribution.*
 
 </div>
 
@@ -45,6 +45,6 @@
 To use the theme, you need [Omarchy](https://omarchy.org/).
 
 ```bash
-omarchy-theme-install https://github.com/omarchy-themes/omarchy-serenity-theme
+omarchy-theme-install https://github.com/omarchy-themes/omarchy-tranquility-theme
 ```
 
