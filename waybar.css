@@ -1,0 +1,6 @@
+@define-color background #12171B;
+@define-color foreground #D5E0E6;
+
+window {
+  opacity: 0.9;
+}
